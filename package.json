@@ -1,0 +1,12 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "comp 2156 lab exercise 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Sudhaa Balkaransingh",
+  "license": "ISC"
+}
