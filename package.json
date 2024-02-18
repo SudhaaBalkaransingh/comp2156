@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp 2156 lab exercise 4",
   "main": "index.js",
+  "homepage": "https://sudhaabalkaransingh.github.io/comp2156/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
